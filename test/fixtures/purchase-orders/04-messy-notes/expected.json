@@ -1,0 +1,50 @@
+{
+    "poNumber": "WSM 26-1148",
+    "customer": {
+      "name": "Westside Sheet Metal LLC",
+      "contactName": "R. Alvarez",
+      "email": null,
+      "phone": "310-555-0127"
+    },
+    "project": {
+      "name": "LAX Service Building",
+      "jobNumber": "LAX-SB-77"
+    },
+    "orderDate": "2026-09-20",
+    "requestedDeliveryDate": "2026-09-25",
+    "shipTo": {
+      "address": "LAX Service Building - Gate C",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90045"
+    },
+    "items": [
+      {
+        "sku": "24G-C",
+        "description": "24 GA copper sheet",
+        "quantity": 7,
+        "unit": "sheet",
+        "unitPrice": 196,
+        "totalPrice": 1372
+      },
+      {
+        "sku": "CUSTOM",
+        "description": "Custom brake-formed flashing - see sketch",
+        "quantity": 16,
+        "unit": "piece",
+        "unitPrice": 48.5,
+        "totalPrice": 776
+      },
+      {
+        "sku": "DEL",
+        "description": "Jobsite delivery",
+        "quantity": 1,
+        "unit": "lot",
+        "unitPrice": 125,
+        "totalPrice": 125
+      }
+    ],
+    "subtotal": 2273,
+    "tax": 216.94,
+    "total": 2489.94
+  }

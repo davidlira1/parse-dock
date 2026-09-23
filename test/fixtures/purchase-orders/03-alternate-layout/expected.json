@@ -1,0 +1,42 @@
+{
+    "poNumber": "PGC-009381",
+    "customer": {
+      "name": "Pacific General Contractors",
+      "contactName": "Maria Chen",
+      "email": "mchen@pacificgc.example",
+      "phone": "(562) 555-0149"
+    },
+    "project": {
+      "name": "Ocean View Apartments - Phase II",
+      "jobNumber": "OV-442"
+    },
+    "orderDate": "2026-09-18",
+    "requestedDeliveryDate": "2026-10-03",
+    "shipTo": {
+      "address": "800 E Ocean Blvd",
+      "city": "Long Beach",
+      "state": "CA",
+      "zip": "90802"
+    },
+    "items": [
+      {
+        "sku": "LWC-150",
+        "description": "Lightweight concrete mix, 1-1/2 in application",
+        "quantity": 3250,
+        "unit": "sq ft",
+        "unitPrice": 3.85,
+        "totalPrice": 12512.5
+      },
+      {
+        "sku": "PUMP",
+        "description": "Pump setup",
+        "quantity": 1,
+        "unit": "job",
+        "unitPrice": 875,
+        "totalPrice": 875
+      }
+    ],
+    "subtotal": 13387.5,
+    "tax": 1104.47,
+    "total": 14491.97
+  }

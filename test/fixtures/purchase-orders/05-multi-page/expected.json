@@ -1,0 +1,66 @@
+{
+    "poNumber": "SI-450028",
+    "customer": {
+      "name": "Summit Industrial Supply",
+      "contactName": "Elena Torres",
+      "email": "etorres@summitindustrial.example",
+      "phone": "(714) 555-0198"
+    },
+    "project": {
+      "name": "Anaheim Distribution Center Expansion",
+      "jobNumber": "ADC-6119"
+    },
+    "orderDate": "2026-09-22",
+    "requestedDeliveryDate": "2026-10-07",
+    "shipTo": {
+      "address": "1700 E Katella Ave",
+      "city": "Anaheim",
+      "state": "CA",
+      "zip": "92805"
+    },
+    "items": [
+      {
+        "sku": "BOLT-38",
+        "description": "3/8 in galvanized anchor bolts",
+        "quantity": 120,
+        "unit": "ea",
+        "unitPrice": 2.35,
+        "totalPrice": 282
+      },
+      {
+        "sku": "PLATE-A",
+        "description": "Custom mounting plate Type A",
+        "quantity": 24,
+        "unit": "ea",
+        "unitPrice": 38.75,
+        "totalPrice": 930
+      },
+      {
+        "sku": "PLATE-B",
+        "description": "Custom mounting plate Type B",
+        "quantity": 24,
+        "unit": "ea",
+        "unitPrice": 44.25,
+        "totalPrice": 1062
+      },
+      {
+        "sku": "SEAL-10",
+        "description": "Industrial sealant 10 oz",
+        "quantity": 48,
+        "unit": "tube",
+        "unitPrice": 9.8,
+        "totalPrice": 470.4
+      },
+      {
+        "sku": "FRT",
+        "description": "Freight",
+        "quantity": 1,
+        "unit": "lot",
+        "unitPrice": 185,
+        "totalPrice": 185
+      }
+    ],
+    "subtotal": 2929.4,
+    "tax": 278.29,
+    "total": 3207.69
+  }

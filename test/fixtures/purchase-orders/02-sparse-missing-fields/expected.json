@@ -1,0 +1,42 @@
+{
+    "poNumber": "PO-77291",
+    "customer": {
+      "name": "Coastal Mechanical Services",
+      "contactName": null,
+      "email": "purchasing@coastalmechanical.example",
+      "phone": null
+    },
+    "project": {
+      "name": "Harbor Retrofit",
+      "jobNumber": null
+    },
+    "orderDate": "2026-09-21",
+    "requestedDeliveryDate": null,
+    "shipTo": {
+      "address": "2200 Harbor Ave",
+      "city": "Long Beach",
+      "state": "CA",
+      "zip": "90810"
+    },
+    "items": [
+      {
+        "sku": null,
+        "description": "Stainless steel duct section - 8 ft",
+        "quantity": 18,
+        "unit": "ea",
+        "unitPrice": null,
+        "totalPrice": null
+      },
+      {
+        "sku": null,
+        "description": "Hanger assemblies",
+        "quantity": 36,
+        "unit": "ea",
+        "unitPrice": 14.25,
+        "totalPrice": 513
+      }
+    ],
+    "subtotal": null,
+    "tax": null,
+    "total": null
+  }

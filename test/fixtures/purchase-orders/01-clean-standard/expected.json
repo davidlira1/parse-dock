@@ -1,0 +1,50 @@
+{
+    "poNumber": "18473",
+    "customer": {
+      "name": "ABC Roofing, Inc.",
+      "contactName": "John Smith",
+      "email": "john.smith@abcroofing.example",
+      "phone": "(213) 555-0184"
+    },
+    "project": {
+      "name": "Wilshire Medical Center",
+      "jobNumber": "WMC-2041"
+    },
+    "orderDate": "2026-09-22",
+    "requestedDeliveryDate": "2026-09-28",
+    "shipTo": {
+      "address": "1450 Wilshire Blvd",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90017"
+    },
+    "items": [
+      {
+        "sku": "GS-24",
+        "description": "24ga Galvanized Sheet",
+        "quantity": 40,
+        "unit": "sheet",
+        "unitPrice": 82.5,
+        "totalPrice": 3300
+      },
+      {
+        "sku": "AF-10",
+        "description": "10' Aluminum Flashing",
+        "quantity": 25,
+        "unit": "piece",
+        "unitPrice": 31.75,
+        "totalPrice": 793.75
+      },
+      {
+        "sku": "RF-100",
+        "description": "Roofing Fasteners",
+        "quantity": 12,
+        "unit": "box",
+        "unitPrice": 46,
+        "totalPrice": 552
+      }
+    ],
+    "subtotal": 4645.75,
+    "tax": 0,
+    "total": 4645.75
+  }
